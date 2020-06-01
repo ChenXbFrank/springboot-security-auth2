@@ -1,0 +1,32 @@
+{
+  "groups": [
+    {
+      "name": "janche",
+      "type": "com.example.janche.common.config.ApplicationConfig",
+      "sourceType": "com.example.janche.common.config.ApplicationConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "janche.log-operation",
+      "type": "java.util.Map<java.lang.Integer,java.lang.String>",
+      "sourceType": "com.example.janche.common.config.ApplicationConfig"
+    },
+    {
+      "name": "janche.log-type",
+      "type": "java.util.Map<java.lang.Integer,java.lang.String>",
+      "sourceType": "com.example.janche.common.config.ApplicationConfig"
+    },
+    {
+      "name": "janche.origins",
+      "type": "java.lang.String[]",
+      "sourceType": "com.example.janche.common.config.ApplicationConfig"
+    },
+    {
+      "name": "janche.sorttype",
+      "type": "com.example.janche.common.config.ApplicationConfig$sortType",
+      "sourceType": "com.example.janche.common.config.ApplicationConfig"
+    }
+  ],
+  "hints": []
+}

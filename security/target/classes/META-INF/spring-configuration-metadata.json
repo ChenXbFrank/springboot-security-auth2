@@ -1,0 +1,18 @@
+{
+  "groups": [
+    {
+      "name": "custom.config",
+      "type": "com.example.janche.security.ignore.CustomConfig",
+      "sourceType": "com.example.janche.security.ignore.CustomConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "custom.config.ignores",
+      "type": "com.example.janche.security.ignore.IgnoreConfig",
+      "description": "不需要拦截的地址",
+      "sourceType": "com.example.janche.security.ignore.CustomConfig"
+    }
+  ],
+  "hints": []
+}

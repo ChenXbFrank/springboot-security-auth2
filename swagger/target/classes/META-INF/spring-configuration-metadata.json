@@ -1,0 +1,47 @@
+{
+  "groups": [
+    {
+      "name": "swagger",
+      "type": "com.example.janche.swagger.SwaggerProperties",
+      "sourceType": "com.example.janche.swagger.SwaggerProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "swagger.basepackage",
+      "type": "java.lang.String",
+      "sourceType": "com.example.janche.swagger.SwaggerProperties"
+    },
+    {
+      "name": "swagger.contract-email",
+      "type": "java.lang.String",
+      "sourceType": "com.example.janche.swagger.SwaggerProperties"
+    },
+    {
+      "name": "swagger.contract-name",
+      "type": "java.lang.String",
+      "sourceType": "com.example.janche.swagger.SwaggerProperties"
+    },
+    {
+      "name": "swagger.contract-url",
+      "type": "java.lang.String",
+      "sourceType": "com.example.janche.swagger.SwaggerProperties"
+    },
+    {
+      "name": "swagger.description",
+      "type": "java.lang.String",
+      "sourceType": "com.example.janche.swagger.SwaggerProperties"
+    },
+    {
+      "name": "swagger.title",
+      "type": "java.lang.String",
+      "sourceType": "com.example.janche.swagger.SwaggerProperties"
+    },
+    {
+      "name": "swagger.version",
+      "type": "java.lang.String",
+      "sourceType": "com.example.janche.swagger.SwaggerProperties"
+    }
+  ],
+  "hints": []
+}
